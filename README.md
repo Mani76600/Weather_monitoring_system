@@ -85,7 +85,7 @@ To run the application in a Docker container:
 
 
 1. Run the script and monitor the console output for any errors in data retrieval or processing.
-2. Check the SQLite database (`weather_data.db`) for stored weather data and daily summaries.
+2. Check the SQLite database (`weather_data.db`) for stored weather data and daily summaries(Note: No need to create the weather_data.db , it will create automatically when you run the application.)
 3. Temporarily lower the `TEMPERATURE_THRESHOLD` in the script to trigger alerts more easily.
 4. Review generated visualization files for accuracy.
 
