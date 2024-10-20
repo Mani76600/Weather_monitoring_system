@@ -107,17 +107,24 @@ weather-monitoring-system/
 ├── weather_data.db       # SQLite database (created when script runs)
 └── [City]_temperature_trend.png    # Generated visualizations
 ```
+System Architecture Diagram:
 
- 1. System Architecture Diagram:
-   - Create a flowchart showing data flow from API to storage and visualization.
-   - Place in the root directory as `architecture_diagram.png`.
-   ![alt text](image.png)
+![weather_monitor_flowchart](https://github.com/user-attachments/assets/39297f47-990c-417f-bb76-7f5c722d2ec8)
 
 
-Result:
 
+**Result:
+**
    
+![result1 weather monitor](https://github.com/user-attachments/assets/84847c78-0bf8-4aca-b0a2-e7aa3309d40d)
+The above image is the output occured in terminal after running the application. 
 
+![showing alert for weather monitor](https://github.com/user-attachments/assets/3b0e0325-b5b5-4a01-ac5a-e23a8dc6521c)
+The above image is the output occured in terminal , that alert sent and displaying the same in terminal.
+Note: To check weather the alerts are receiving or not adjuct the threshold temperature to the less value and check.
+
+![received mail alert weather monitor](https://github.com/user-attachments/assets/1002cd77-bfc2-4488-83d6-8923ec7b8d60)
+The above image is alert received through the mail.
 
 
 ## Contributing
