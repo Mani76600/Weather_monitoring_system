@@ -115,6 +115,10 @@ Data flow diagram:
 
 ![image](https://github.com/user-attachments/assets/6cad338e-cd80-4fd7-a7f6-4d783b32ca7c)
 
+Database schema diagram showing tables and relationships:
+
+![image](https://github.com/user-attachments/assets/4646ad44-1417-48b4-8a19-9daa1842c707)
+
 
 
 ##Result:
@@ -130,6 +134,8 @@ Note: To check weather the alerts are receiving or not adjuct the threshold temp
 
 ![received mail alert weather monitor](https://github.com/user-attachments/assets/1002cd77-bfc2-4488-83d6-8923ec7b8d60)
 The above image is alert received through the mail.
+
+
 
 
 
