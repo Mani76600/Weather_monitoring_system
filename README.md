@@ -109,7 +109,11 @@ weather-monitoring-system/
 ```
 System Architecture Diagram:
 
-![weather_monitor_flowchart](https://github.com/user-attachments/assets/39297f47-990c-417f-bb76-7f5c722d2ec8)
+![image](https://github.com/user-attachments/assets/a188c58f-3277-4d9f-a10a-a520decc56eb)
+
+Data flow diagram:
+
+![image](https://github.com/user-attachments/assets/6cad338e-cd80-4fd7-a7f6-4d783b32ca7c)
 
 
 
