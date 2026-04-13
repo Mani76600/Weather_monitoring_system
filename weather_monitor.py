@@ -10,7 +10,7 @@ from email.mime.multipart import MIMEMultipart
 import os
 
 # Configuration
-API_KEY = os.getenv("OPENWEATHERMAP_API_KEY", "8af0831ff2980237d816c0de0e6872f8")
+API_KEY = os.getenv("OPENWEATHERMAP_API_KEY", "******************************")
 CITY_IDS = {
     "Delhi": 1273294,
     "Mumbai": 1275339,
